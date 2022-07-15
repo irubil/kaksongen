@@ -28,7 +28,7 @@ according to Ledić, Rubil, and Urban's (2022) generalisation of the framework d
 
 {phang}where:
 
-{p 8 15}{it:xvar} - variable representing pre-tax income; wkdlwk w klekwqel kwelkqw  kelqw kelqwke lqwk elqwek lwqke lwqke lwqke lwqke lwqke lqwke lqwke lwke lwqke lwqke lwqke lwqkelqw
+{p 8 15}{it:xvar} - variable representing pre-tax income;
 
 {p 8 15}{it:tvar} - variable representing the tax.
 
