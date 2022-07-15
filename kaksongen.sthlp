@@ -137,7 +137,7 @@ The latest version of {cmd:kaksongen} is available at {browse "https://sites.goo
 {title:References}
 
 {phang}Kakwani, N., & Son, H. H. (2021). {browse "https://link.springer.com/article/10.1007/s10888-020-09463-6":Normative Measures of Tax Progressivity: an International Comparison.} {it:Journal of Economic Inequality}, 19(1), 185–212.{p_end} 
-{phang}Ledić, M., Rubil, I., & Urban, I. (2022). {browse "https://drive.google.com/file/d/1NJoDpB0RWVHHg6YOWtaVphQdsfPHJUv2/view?usp=sharing":Tax Progressivity and Social Welfare with a Continuum of Inequality Views.} {it:International Tax and Public Finance}.{p_end}
+{phang}Ledić, M., Rubil, I., & Urban, I. (2022). {browse "https://drive.google.com/file/d/1NJoDpB0RWVHHg6YOWtaVphQdsfPHJUv2/view?usp=sharing":Tax Progressivity and Social Welfare with a Continuum of Inequality Views.}{p_end}
 
 {hline}
 
