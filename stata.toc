@@ -1,2 +1,2 @@
 v 3
-p kaksongen Decomposition of the social welfare loss due to taxation
+p kaksongen decomposition of the social welfare loss due to taxation
