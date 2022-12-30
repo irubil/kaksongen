@@ -7,16 +7,18 @@ To install the package from within Stata, issue the command:
 ``net install kaksongen, replace from(https://raw.githubusercontent.com/irubil/kaksongen/main)``
 
 ## Latest version
-kaksongen.ado: July 2022
-
+kaksongen.ado: July 2022 <br>
 kaksongen.sthlp: December 2022
 
 ## Authors
-Marko Ledić, Faculty of Economics and Business, University of Zagreb, markoledic@gmail.com
-
-Ivica Rubil, The Institute of Economics, Zagreb, irubil@gmail.com
-
+Marko Ledić, Faculty of Economics and Business, University of Zagreb, markoledic@gmail.com <br>
+Ivica Rubil, The Institute of Economics, Zagreb, irubil@gmail.com <br>
 Ivica Urban, Institute of Public Finance, Zagreb, urbanivica@gmail.com
+
+If you have a question on the current version, or have an idea of how to improve it, or you encounter a bug, please write to any of the authors.
+
+Please cite the package as follows: Ledić, M., Rubil, I. & Urban, I. (2022). KAKSONGEN: Stata module for computing the decomposition of the social welfare impact of taxation. Available at: https://github.com/irubil/kaksongen.
+
 
 ## Acknowledgements
 The package uses Philippe Van Kerm's package [sgini](https://ideas.repec.org/c/boc/bocode/s458778.html).
